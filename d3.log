@@ -1,0 +1,17 @@
+commit 69341cb99072131d1f1472541e4e4eb84af2fbb2
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Nov 14 18:59:39 2025 +0300
+
+    Add full test suite for Complex class
+
+commit f31066e7cf413c00617e81fc64e35185fc7ddbfb
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Nov 14 18:59:32 2025 +0300
+
+    Implement Complex class
+
+commit 2144132420b637735b7855b16e947f458afbf189
+Author: Joudy Mouhaffel <joudy.raba.bakri.radwan.mouhaffel@nmbu.no>
+Date:   Fri Nov 14 18:28:59 2025 +0300
+
+    Create deliverable3 folder and initial files
